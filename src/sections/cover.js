@@ -9,7 +9,7 @@ const Cover = () => {
         <p className="paragraph">
           We are a mixture of developers and designers pushing boundaries of
           what’s possible in problem solving for businesses and communities, we
-          have fun while at it.
+          have fun while at it. Bitch Please!!
         </p>
 
         <Quote
